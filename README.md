@@ -41,9 +41,8 @@ This Streamlit-based web application uses a trained neural network to recognize 
 ## Dependencies
 
 - streamlit==1.39.0
-- python==3.10.11
-- tensorflow-cpu==2.13.0
-- numpy==1.24.3
+- tensorflow-cpu==2.16.2
+- numpy==1.26.0
 - Pillow==10.4.0
 - matplotlib==3.7.1
 
