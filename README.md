@@ -63,6 +63,9 @@ The app uses a pre-trained neural network model (`mnist_model.h5`) that was trai
    - Converted to grayscale
    - Resized to 28x28 pixels
    - Normalized to values between 0 and 1
+   - Takes the normalized single image, flatten it, with single color in consideration (grey)
+   - Invert the image to white digits on black background, in sychronous to mnist dataset used to train the model
+     
 3. The preprocessed image is fed into the neural network model.
 4. The model predicts the digit and provides confidence scores for each possible digit.
 5. Results are displayed, including:
