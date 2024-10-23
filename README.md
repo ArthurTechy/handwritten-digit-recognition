@@ -50,7 +50,7 @@ This Streamlit-based web application uses a trained neural network to recognize 
 
 The app uses a pre-trained neural network model (`mnist_model.h5`) that was trained on the MNIST dataset of handwritten digits.
 #### -the model was trained using:
-- python==3.10.11 install globally
+- python==3.10.11 (installed globally
 - tensorflow-cpu==2.13.0
 - numpy==1.24.3
 
