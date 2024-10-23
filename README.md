@@ -103,3 +103,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For any questions or feedback about this project, please open an issue in the GitHub repository.
+
+Click to view the app: [Link](https://handwritten-digit-recognition-app.streamlit.app/)
